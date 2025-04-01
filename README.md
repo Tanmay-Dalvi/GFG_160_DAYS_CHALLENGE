@@ -1,37 +1,48 @@
-160 Days DSA Challenge
-Overview
-This repository contains my solutions for the GeeksforGeeks 160 Days DSA Challenge (#gfg160 & #geekstreak2025). The challenge runs from April 1, 2025 to September 25, 2025, covering a wide range of Data Structures and Algorithms problems.
-Each day, I'll be solving one DSA problem and uploading both the problem statement and my solution here. This repository serves as a public resource for anyone interested in following along or using these solutions for their own learning.
-Repository Structure
-Copy├── Day_001_Find_Second_Largest
-│   ├── problem.md
-│   └── solution.cpp (or other language extension)
-├── Day_002_...
-│   ├── problem.md
-│   └── solution.cpp
-...
-Progress Tracker
+# 160 Days of DSA Challenge
 
- Day 1: Find the 2nd largest element in an array
- Day 2: TBD
- Day 3: TBD
-...
+Welcome to the **160 Days of DSA Challenge** repository! 🎉
 
-How to Use This Repository
+This repository is dedicated to my journey of solving data structures and algorithms (DSA) problems for **160 consecutive days**. The goal of this challenge is to dive deep into DSA concepts, improve problem-solving skills, and master coding in Python.
 
-Browse by day to see each problem and its corresponding solution
-Clone the repository to your local machine:
-Copygit clone https://github.com/YOUR_USERNAME/160-days-dsa-challenge.git
+## 📅 **Challenge Overview**
 
-Feel free to use these solutions for your own learning, but I encourage you to try solving the problems yourself first!
+The challenge is designed to be **structured and consistent**, tackling a new problem every day for **160 days**. Each day presents a unique problem related to various topics in DSA, which are solved in Python. From arrays to trees, graphs to dynamic programming, you’ll find a wide variety of problems to keep you engaged and learning.
 
-About the Challenge
-The GeeksforGeeks 160 Days DSA Challenge is a coding streak that aims to build consistency in practicing data structures and algorithms. Participants who maintain the streak for 80 days are eligible for rewards from GeeksforGeeks.
-Connect With Me
-Feel free to reach out if you have any questions or alternative solutions to the problems!
+- **Challenge Duration**: 160 Days
+- **Focus**: Data Structures & Algorithms (DSA)
+- **Language Used**: Python
+- **Platform**: GeeksforGeeks (GFG)
 
-LinkedIn
-Twitter/X
+## 📝 What You’ll Find in This Repository
 
-Disclaimer
-This repository is created for educational purposes. While you're welcome to use these solutions as references, I highly recommend trying to solve the problems independently for the best learning experience.
+This repository contains the following:
+
+- **Daily Problem Statements**: A summary of each day's problem, including its context, input/output format, and constraints.
+- **Solution Code**: Python solutions to each problem, with explanations to help you understand the approach used to solve them.
+- **Learning Resources**: Links to relevant articles, tutorials, or videos that explain important concepts and help reinforce learning.
+- **Progress Tracker**: As I progress through the challenge, you’ll be able to track each day’s problem and the corresponding solution.
+
+## 🏆 Why This Challenge?
+
+- **Structured Learning**: By solving one problem every day, I aim to build and reinforce my understanding of key DSA concepts in a consistent manner.
+- **Personal Growth**: This challenge will not only sharpen my technical skills but also help develop problem-solving strategies that can be applied in real-world coding and software development.
+- **Community Engagement**: I’m sharing this repository in hopes that it will help fellow learners and enthusiasts tackle DSA problems with Python. Feel free to fork the repo, contribute, or create issues with suggestions and improvements.
+
+## 💻 How You Can Contribute
+
+This repository is open to contributions! Whether you have additional insights, optimizations, or suggestions for improvements, feel free to:
+
+- Fork this repository and submit a **pull request** with your changes.
+- Open an **issue** if you find a bug, have a suggestion, or want to discuss something related to DSA.
+
+## 🌟 My Progress
+As I complete each day, I’ll be adding solutions here, so you can follow along or join me in this challenge!
+
+## 🔥 Stay Connected
+Follow me on GitHub for more updates and to see my progress throughout the challenge:
+
+GitHub: @Tanmay-Dalvi
+LinkedIn: https://www.linkedin.com/in/tanmaydalvi
+X: @_tanmay_dalvi
+
+Feel free to star the repository and share it with friends or fellow DSA learners!
