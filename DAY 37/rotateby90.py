@@ -1,0 +1,19 @@
+class Solution:
+    
+    #Function to rotate matrix anticlockwise by 90 degrees.
+    def rotateby90(self, mat): 
+        # code here
+        n = len(mat)
+        
+        for i in range(n):
+            for j in range(i + 1, n):
+                mat[i][j], mat[j][i] = mat[j][i], mat[i][j]
+                
+        for j in range(n):
+            top = 0
+            bottom = n - 1
+            
+            while top < bottom:
+                mat[top][j], mat[bottom][j] = mat[bottom][j], mat[top][j]
+                top += 1
+                bottom -= 1
